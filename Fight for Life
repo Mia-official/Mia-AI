@@ -1,0 +1,17 @@
+Main.unity
+├─ Terrain
+├─ SafeZone (center)
+├─ GameManager
+│  └─ PlayerSpawner
+├─ Buildings
+│  ├─ House1
+│  ├─ House2
+│  └─ Barricades
+├─ WeaponPickups
+│  ├─ Pickup1
+│  ├─ Pickup2
+│  └─ Pickup3
+├─ Player (spawned at runtime)
+├─ Canvas
+│  ├─ HealthSlider
+│  └─ AmmoText
